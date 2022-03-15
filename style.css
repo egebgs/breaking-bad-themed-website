@@ -1,0 +1,29 @@
+p, dl{	
+text-align:center;
+font-family:Comic Sans MS;
+color: yellow;
+font-size: 25px;
+}
+h1{
+text-align:center;
+color: white;
+}
+h2{
+text-align:center;
+font-family:Comic Sans MS;
+color:yellow;
+}
+ul{
+text-align:center;
+font-family:Comic Sans MS;
+color:yellow;
+font-size: 25px;
+}
+body{
+background-image: url("images/website_background.jpg");	
+}
+h4{
+text-align:center;
+color:white;
+font-family: Comic Sans MS;
+}
